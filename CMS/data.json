@@ -1,0 +1,97 @@
+{
+  "name": "Raghul R",
+  "designation": "Software Engineer",
+  "description": "I am a software engineer with a passion for building web applications. I have experience in various technologies and frameworks, and I love to learn new things. In my free time, I enjoy reading books and exploring new places.",
+  "image": "https://avatars.githubusercontent.com/u/103546648?v=4",
+  "location": "India",
+  "techStacks": {
+    "heading": "Here are some technologies I have been working with:",
+    "stacks": ["HTML/CSS", "React.js", "Typescript", "JavaScript ES6+", "Python", "AWS"]
+  },
+  "CTA": [
+    {
+      "text": "GitHub",
+      "link": ""
+    },
+    {
+      "text": "LinkedIn",
+      "link": ""
+    },
+    {
+      "text": "Email",
+      "link": ""
+    }
+  ],
+  "workExperience": {
+    "heading": "Work Experience",
+    "experience": [
+      {
+        "companyName": "Comcast",
+        "designation": "Development Engineer",
+        "period": "July 2024 - Present",
+        "description": [
+          "Develop and maintain responsive, high-performance web applications using React.js, Next.js, and Typescript, improving user engagement by 15% through optimized UI components.",
+          "Collaborate with UX designers and product managers in agile sprints, driving UI refinements that improved customer satisfaction scores by 10%. ",
+          "Contributed to A/B testing with Optimizely, driving data-informed UI improvements that increased conversion rates by 10%. ",
+          "Conduct unit testing with Jest and React Testing Library, achieving 90%+ code coverage and minimizing production bugs. ",
+          "Implemented performance monitoring with Grafana and Kibana, identifying bottlenecks in client applications and applying code-level optimizations to reduce latency by 15% for high-volume transactions."
+        ],
+        "image": ""
+      },
+      {
+        "companyName": "Infosys",
+        "designation": "Systems Engineer",
+        "period": "March 2021 - June 2024",
+        "description": [
+          "Developed front-end features, components and pages by translating figma designs (UI/UX) and wireframes into high quality, reusable code optimized for maximum performance across various devices and browsers using Isomorphic React. ",
+          "Collaborated with the content team to create custom CMS templates and themes for efficient content management system and provided training and support to non-technical users for CMS content editing and publishing.  ",
+          "Implemented static site generation for improved performance and SEO resulting in a 40% increase in website performance. ",
+          "Designed and developed a reusable components and frontend libraries for future use, resulting in reduction in development time for new projects including multiple microsites. ",
+          "Affiliated with a cross-functional team to design and implement user-friendly interfaces, ensuring seamless user experiences across various devices using Waterfall Methodologies. ",
+          "Built and optimized server-side logic using Node.js and Express.js, integrating MongoDB to support dynamic content updates, which enhanced data retrieval efficiency for real-time reporting tools used by 10,000+ end users. "
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "studies": {
+    "collegeName": "Kumaraguru college of Technology",
+    "location": "Coimbatore"
+  },
+  "technicalSkills": {
+    "heading": "Technical Skills",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "React.js",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "Next.js",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "Node.js & Express.js",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "AWS",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "description": "Having good knowledge in JavaScript and its concepts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+      }
+    ]
+  },
+  "outOfWork": "Outside of work, I'm interested in following the developments of science. I also play a lot of video games. And make TikToks"
+}
