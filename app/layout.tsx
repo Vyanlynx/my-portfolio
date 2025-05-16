@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 };
 
 const ntr = NTR({
+  subsets: ['latin'],
   weight: '400',
   variable: '--font-ntr',
 });
