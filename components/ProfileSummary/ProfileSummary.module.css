@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.greetings {
+  padding-top: 3rem;
+  font-size: 3.5em;
+  font-weight: 600;
+  line-height: 30px;
+}
+.description {
+  font-size: 2.5em;
+}
+.summary {
+  font-size: 1.2em;
+  max-width: 600px;
+  text-align: center;
+  line-height: 30px;
+}
+.contact {
+  border: 2px dotted rgb(88, 75, 75);
+  padding: 0.2em 1em;
+  border-radius: 15px;
+  margin-top: 2em;
+  &:hover {
+    color: #051d39;
+    font-weight: 700;
+    border: 2px solid rgb(0, 0, 0);
+  }
+}
+.contactlink {
+  font-size: 1.2em;
+  text-align: center;
+  color: #051d39;
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.footerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 7rem;
+    font-size: 1.2em;
+}
+.formatedDate{
+    font-size: small;
+}

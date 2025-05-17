@@ -4,6 +4,16 @@
   "description": "I am a software engineer with a passion for building web applications. I have experience in various technologies and frameworks, and I love to learn new things. In my free time, I enjoy reading books and exploring new places.",
   "image": "https://avatars.githubusercontent.com/u/103546648?v=4",
   "location": "India",
+  "links": {
+    "github": "",
+    "linkedin": "linkedin.com/in/reactdev"
+  },
+  "summary": {
+    "greetings": "Hi, Raghul here 😄",
+    "description": "I create stuff sometimes",
+    "summary": "I'm a software engineer from Chennai, India. I'm fascinated by large-scale, high-impact products and contributed to major feature launches in industry-leading services.",
+    "contact": "👋 Say hi!!"
+  },
   "techStacks": {
     "heading": "Here are some technologies I have been working with:",
     "stacks": ["HTML/CSS", "React.js", "Typescript", "JavaScript ES6+", "Python", "AWS"]
