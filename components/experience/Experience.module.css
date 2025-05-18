@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.1em;
+}
+.experienceSection {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  max-width: 1000px;
+}
+.expContainer {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: rgb(18, 72, 72);
+}
+.expCompanyName {
+  color: rgb(16, 237, 237);
+}
+.period {
+  font-size: 1em;
+  font-weight: 700;
+  color: rgb(40, 155, 155);
+  line-height: 15px;
+  margin-bottom: 1em;
+  /* font-style: oblique; */
+}
+.expDescription {
+  line-height: 25px;
+}

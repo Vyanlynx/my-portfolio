@@ -14,4 +14,4 @@ pnpm dev
 bun dev
 ```
 
-dev - http://localhost:3000/nextjs-github-pages
+dev - http://localhost:3000/my-portfolio

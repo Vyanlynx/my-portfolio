@@ -21,7 +21,8 @@
   grid-template-columns: repeat(2, minmax(150px, 10px));
   list-style-type: none;
   padding-top: 1rem;
+  font-size: 0.9em;
 }
-.outOfWork{
-    margin-top: 2em;
+.outOfWork {
+  margin-top: 2em;
 }
